@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello 🙋🏽‍♂️, I'm Manikadan Selvaraj</h1>
+<h1 align="center">Hello 🙋🏻‍♀️, I'm Rithika Kalaimani</h1>
 <h3 align="center"></h3>
 
 ### 👨🏽‍💻 About Me
 🚀 Currently working as a SDET at [rocketlane](https://www.rocketlane.com/)  
 🌱 Learning full stack development , DSA and testing frameworks  
-👯 Looking out for opportunities to collaborate in web dev and C++ projects  
+👯 Looking out for opportunities to collaborate in web dev and Java projects  
 ⚡ Fun fact : Love hanging out with new people and everything related to night outs.  
 📸 Mobile photographer  
-📫 Reach out to me at [smanijuju@gmail.com](smanijuju@gmail.com)  
+📫 Reach out to me at [rithikakalaimani@gmail.com](smanijuju@gmail.com)  
 
 #
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="40px"></img>

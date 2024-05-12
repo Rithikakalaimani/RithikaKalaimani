@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 #
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="40px"></img>
-
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rithikakalaimani?theme=dark&font=Eczar&ext=heatmap)
 

@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/react/react-original.svg" width="50" height="50"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/java.png" alt="c-plus-plus-logo"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
  <img width="50" height="50" src="https://img.icons8.com/color/48/mongodb.png" alt="mongodb"/>
  <img width="50" height="50" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
  <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>

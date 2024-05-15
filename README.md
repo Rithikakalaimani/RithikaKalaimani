@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <h3 align="center"></h3>
 
 ### 👨🏽‍💻 About Me
-🚀 CS Undergrad 
+🚀 CS Undergrad  
 🌱 Learning full stack development , DSA and testing frameworks  
 👯 Looking out for opportunities to collaborate in web dev and Java projects  
-⚡ Fun fact : I'm also a talented artist!
-📫 Reach out to me at [rithikakalaimani@gmail.com]()  
+⚡ Fun fact : I'm also a talented artist!  
+📫 Reach out to me at [rithikakalaimani@gmail.com](rithikakalaimani@gmail)  
+ 
 
 #
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="40px"></img>

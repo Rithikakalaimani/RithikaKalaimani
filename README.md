@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 <h3 align="center"></h3>
 
 ### 👨🏽‍💻 About Me
-🚀 Currently working as a SDET at [rocketlane](https://www.rocketlane.com/)  
+🚀 CS Undergrad 
 🌱 Learning full stack development , DSA and testing frameworks  
 👯 Looking out for opportunities to collaborate in web dev and Java projects  
-⚡ Fun fact : Love hanging out with new people and everything related to night outs.  
-📸 Mobile photographer  
-📫 Reach out to me at [rithikakalaimani@gmail.com](smanijuju@gmail.com)  
+⚡ Fun fact : I'm also a talented artist!
+📫 Reach out to me at [rithikakalaimani@gmail.com]()  
 
 #
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="40px"></img>

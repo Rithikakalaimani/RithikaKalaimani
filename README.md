@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 👯 Looking out for opportunities to collaborate in web dev and Java projects  
 ⚡ Fun fact : I'm also a talented artist!  
 📫 Reach out to me at [rithikakalaimani@gmail.com](rithikakalaimani@gmail)  
+
  
 
 #

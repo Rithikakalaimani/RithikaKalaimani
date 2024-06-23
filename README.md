@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ### 📈 Github Stats
 <img src="https://komarev.com/ghpvc/?username=BLACK00HOLE"/>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithikakalaimani&theme=tokyonight) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rithikakalaimani&show_icons=true&theme=tokyonight)
+![Rithika's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithikakalaimani&theme=tokyonight) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rithikakalaimani&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rithikakalaimani&theme=dark&border_radius=6&card_width=534)](https://git.io/streak-stats)
 

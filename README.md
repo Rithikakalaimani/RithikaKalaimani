@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 ![Rithika's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithikakalaimani&theme=tokyonight) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rithikakalaimani&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rithikakalaimani&theme=dark&border_radius=6&card_width=534)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rithikakalaiman&theme=dark&border_radius=6&card_width=534)](https://git.io/streak-stats)
 
 
 #

@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🌱 Learning full stack development , DSA and testing frameworks  
 👯 Looking out for opportunities to collaborate in web dev and Java projects  
 ⚡ Fun fact : I'm also a talented artist!!  
-📫 Reach out to me at [rithikakalaimani@gmail.com](rithikakalaimani@gmail)  
+📫 Reach out to me at [rithikakalaimani@gmail.com](rithikakalaimani@gmail.com)  
 
  
 

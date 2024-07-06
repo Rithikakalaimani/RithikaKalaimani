@@ -1,4 +1,5 @@
-![image](https://github.com/Rithikakalaimani/RithikaKalaimani/assets/123987662/b44a9f9c-18c1-4103-a778-9d47dde5dc5c)q
+
+
 
 <!--
 **Rithikakalaimani/RithikaKalaimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

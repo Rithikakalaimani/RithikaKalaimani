@@ -1,4 +1,4 @@
-
+![image](https://github.com/Rithikakalaimani/RithikaKalaimani/assets/123987662/b44a9f9c-18c1-4103-a778-9d47dde5dc5c)q
 
 <!--
 **Rithikakalaimani/RithikaKalaimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <img src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px"></img>
+
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rithikakalaimani?theme=dark&font=Poppins&ext=heatmap)
 

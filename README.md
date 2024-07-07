@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hello 🙋🏻‍♀️, I'm Rithika Kalaimani</h1>
+<h1 align="left">Hi there 🙋🏻‍♀️, I'm Rithika S</h1>
 <h3 align="left"></h3>
 
 ### 👨🏽‍💻 About Me

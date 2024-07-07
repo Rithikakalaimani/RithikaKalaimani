@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 ### 👨🏽‍💻 About Me
 🚀 CS Undergrad  
 🌱 Learning full stack development , DSA and testing frameworks  
-👯 Looking out for opportunities to collaborate in web development and Java projects  
-⚡ Fun fact : I'm also a talented artist!!  
+💻 Looking out for opportunities to collaborate in web development and Java projects  
+🎨 Fun fact : I'm also a talented artist!!  
 📫 Reach out to me at [rithikakalaimani@gmail.com](rithikakalaimani@gmail.com)  
 
  

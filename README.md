@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" width="40px"></img>
 
 <br>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/rithikakalaimani?theme=dark&font=firacode&ext=heatmap)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Courier%20Prime&ext=contest)
 
 #

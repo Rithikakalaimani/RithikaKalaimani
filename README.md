@@ -44,13 +44,19 @@ Here are some ideas to get you started:
 
 ### 📈 Github Stats
 <img src="https://komarev.com/ghpvc/?username=Rithikakalaimani"/>
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rithikakalaimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rithikakalaimani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithikakalaimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Rithika's Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rithikakalaimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<br/>
+
+![Rithika's Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rithikakalaimani&theme=dark&hide_border=false)
+<br/>
+![Rithika's Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rithikakalaimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rithikakalaimani&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Rithika's Repository's Stats](https://visitcount.itsvg.in/api?id=Rithikakalaimani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

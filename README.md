@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rithikakalaimani?theme=dark&font=firacode&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark&font=Courier%20Prime&ext=contest)
 
 #
 

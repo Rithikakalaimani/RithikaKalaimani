@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ### 📈 Github Stats
 <img src="https://komarev.com/ghpvc/?username=Rithikakalaimani"/>
 
-![Rithika's Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rithikakalaimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&font=Fira%20Code)
+![Rithika's Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rithikakalaimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&font-family=consolas)
 <br/>
 ![Rithika's Repository's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Rithikakalaimani&theme=dark&hide_border=false)
 <br/>

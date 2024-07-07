@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/rithikakalaimani?theme=dark&font=FiraCode&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/rithikakalaimani?theme=dark&font=FiraCode)
 
 #
 

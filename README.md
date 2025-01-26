@@ -61,8 +61,7 @@ Here are some ideas to get you started:
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rithikakalaimani&show_icons=true&theme=graywhite)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rithikakalaimani&theme=graywhite&hide_border=true&border_radius=6&card_width=534)](https://git.io/streak-stats)-->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rithikakalaimani&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rithikakalaimani&bg_color=302c2e&color=59a239&line=3c9a4c&point=1a1919&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 #
 
 ### ☕ Let's Connect

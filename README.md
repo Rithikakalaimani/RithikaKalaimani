@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ### 📈 Github Stats
 <img src="https://komarev.com/ghpvc/?username=Rithikakalaimani"/>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Rithikakalaimani/github-readme-stats)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Rithikakalaimani?cardType=github&theme=dark&preferLogin=true)](https://git.io/awesome-stats-card)
 ![Rithika's Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rithikakalaimani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&font-family=consolas)
 <br/>

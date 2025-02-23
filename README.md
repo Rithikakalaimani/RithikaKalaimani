@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 #
 
 ### ☕ Let's Connect
-<a href="https://www.linkedin.com/in/rithika-kalaimani-7b1a11211"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
+<a href="https://www.linkedin.com/in/rithika-kalaimani-s24/"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
 <a href="https://www.instagram.com/_rxthxkakalaxmanx_/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
 #
